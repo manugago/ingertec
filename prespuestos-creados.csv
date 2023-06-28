@@ -1,0 +1,398 @@
+Cliente;Tipo Presupuesto;Nombre;Unidad;Estado;Motivos;Origen;Campana;Id;IdDelegacion;IdCliente;Fecha;IdTipoPresupuesto;IdEstado;IdConsultor;Importe Fijo;Precio Completa Cerrado;Precio Media;Precio Hora;Codigo;Codigo Historico;IdMotivo;IdServicio;IdUnidadNegocio;IdTipoFacturaEmitida;Forma Envio Oferta;IdCampana;Fecha Acepta Rechaza;IdOrigenPresupuesto;F Mod
+;Calidad;Rafi;ISO'S;Rechazado;+ Cercanía;APPLUS proporciona contacto;;73023;1;2100084072;10/1/23;6;3;152;1000;1000;0;0;;;20;3;4;4;enmail;45;16/1/23;2;10/1/23
+07GLOBALAN,S.L.;Mantenimiento;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73141;1;2100080322;20/1/23;28;1;148;2995,2;2995,2;;;;70687_1;4;80;1;7;;;20/1/23;6;22/1/23
+3OES LEADING SOFTWARE, S.L.;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73325;1;2100081747;9/2/23;212;2;125;2900;2900;0;0;;;0;80;1;5;;45;;12;9/2/23
+3OES LEADING SOFTWARE, S.L.;Medio_ambiente;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73328;1;2100081747;9/2/23;35;2;125;1400;1400;0;0;;;0;80;4;5;;45;;12;9/2/23
+3OES LEADING SOFTWARE, S.L.;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73300;1;2100081747;8/2/23;212;2;125;3200;3200;;;;;;80;1;5;;;;12;8/2/23
+3OES LEADING SOFTWARE, S.L.;Mantenimiento;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73327;1;2100081747;9/2/23;28;2;125;900;900;0;0;;;0;80;1;6;;45;;12;9/2/23
+3OES LEADING SOFTWARE, S.L.;Mantenimiento;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73299;1;2100081747;8/2/23;28;2;125;900;900;;;;;;44;1;6;;;;12;8/2/23
+ACCENTURE SL;ISAE_3402;Marta;COMPLIANCE;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73090;1;2100080719;16/1/23;215;1;148;5400;5400;;;;;4;82;2;5;;;16/2/23;6;16/1/23
+ACEDIS FORMACION, S.L.U.;Formacion bonificada;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Arsenio: cliente;;73098;1;2100064623;17/1/23;15;1;148;143,5;143,5;;;;;2;2;4;9;;;17/1/23;3;17/1/23
+ACEDIS FORMACION, S.L.U.;Formacion bonificada;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73287;1;2100064623;6/2/23;15;1;148;143,5;143,5;;;;;4;3;4;9;UGT;;6/2/23;6;6/2/23
+Acerca Partners, S.L.;Mantenimiento;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73309;1;2100078298;8/2/23;28;1;148;2880;2880;;;;72627;4;19;1;7;;;8/2/23;6;8/2/23
+ADHERA HEALTH, S.L.;Auditoria;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73079;1;2100084093;16/1/23;54;2;125;600;0;0;0;;;;19;1;6;;45;;2;16/1/23
+ADHERA HEALTH, S.L.;Mantenimiento;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73078;1;2100084093;16/1/23;28;2;125;560;0;0;0;;;;19;1;7;;45;;2;16/1/23
+ADMINISTRACION Y SERVICIOS TECNOLOGICOS 2001, S.L. ASERTEC;ENS;Sara;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73303;1;2100082682;8/2/23;212;1;142;400;400;;;;73279,1;5;80;1;5;;;8/2/23;12;8/2/23
+ADW EUROPE S.L.;Mantenimiento;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73221;5;2100079640;30/1/23;28;2;125;1300;1300;;;;;;3;1;6;;;;12;30/1/23
+ADW EUROPE S.L.;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;AXESOR;;73222;5;2100079640;30/1/23;212;2;125;2750;2750;2750;;;;;80;1;5;;;;5;30/1/23
+AGEFOR;Calidad;Patricio;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73045;3;2100055842;12/1/23;6;1;140;340;340;220;50;;;4;3;4;6;e.mail;;13/1/23;6;12/1/23
+AGRUPACION GANADEROS MONTES DE MALAGA;Calidad;Rafi;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Arsenio: cliente;;73084;1;2100084096;16/1/23;6;1;152;1650;1650;;;;;5;3;4;4;ENMAIL;;19/1/23;3;16/1/23
+Alarcon Ramirez Instalaciones Tecnicas Sl;Renovacion_Clasificacion;Romina;CLASIFICACION CONTRATISTAS;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73034;1;2100076206;11/1/23;172;2;23;490;490;490;0;;;;1;8;;;65;;12;11/1/23
+Alarke Consulting Tecnologico;ISO 27001;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73042;1;2100084079;12/1/23;26;2;125;2500;2500;0;0;;;0;19;1;;;45;;3;12/1/23
+ALGADI ALIMENTACION Y DISTRIBUCION, S.A.U.;PLAN DE IGUALDAD;JESSICA;IGUALDAD;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73047;5;2100084081;12/1/23;38;1;160;5500;5500;;;;;6;13;3;4;Email;;18/1/23;6;12/1/23
+ALTA PRECISIÓN INDUSTRIAL MECÁNICA, S.L.;Tisax;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73017;1;2100084070;9/1/23;213;2;125;8000;8000;0;0;;;;81;1;;;45;;2;9/1/23
+AMBISER INNOVACIONES, S.L.;varios;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73251;1;2100077819;1/2/23;43;2;125;1200;1200;0;0;;;0;80;4;5;;47;;6;1/2/23
+ANDOVER COMEDORES Y LIMPIEZAS S.L.;22000;Arsenio;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;72993;2;2100077608;3/1/23;25;1;56;1750;1750;;;;;5;34;4;5;Mail;;11/1/23;6;3/1/23
+ANGEL24 SL;ENS;Sara;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73279;1;2100081903;6/2/23;212;1;142;200;200;;0;;;5;80;1;5;REV1;66;8/2/23;12;6/2/23
+APARTAMENTOS CIEL AZUL;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73302;5;2100084166;8/2/23;48;2;169;1200;1200;;;;;;35;6;4;correo electrónico;;;2;8/2/23
+ASESORIA CARNIAGO, S.L.;PLAN DE IGUALDAD;Jose_Miguel;IGUALDAD;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73062;1;2100084084;13/1/23;38;2;125;1500;350;0;0;;;0;13;3;;;45;;2;13/1/23
+Asesoría Laboral Angel García Linares;Calidad;Romina;ISO'S;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73031;1;2100078067;11/1/23;6;2;23;1650;1650;1650;0;;;;3;4;;;45;;3;11/1/23
+ASESORIA MARINA;PLAN DE IGUALDAD;Sara;IGUALDAD;Rechazado;+ Cercanía;APPLUS proporciona contacto;;72995;1;2100084056;3/1/23;38;3;142;850;350;0;0;;;26;13;3;4;;45;10/1/23;2;3/1/23
+Asesoría Uralde Aholkularitza;ISAE_3402;Marta;COMPLIANCE;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73239;1;2100084149;31/1/23;215;2;148;4300;4300;0;0;;;0;82;2;4;;45;;2;31/1/23
+ASIMAS;Mantenimiento;Sara;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73296;1;2100062271;7/2/23;28;1;142;200;45;0;0;;;4;3;4;6;;66;9/2/23;12;7/2/23
+ASOCIACIÓN NIÑOS DEL TAMBO;Calidad;Sara;ISO'S;Rechazado;+ Cercanía;Arsenio: cliente;;73156;1;2100084121;23/1/23;6;3;142;1000;1000;0;0;;;26;3;4;4;;45;27/1/23;3;23/1/23
+ASOCIACION PROVINCIAL DE AUTOESCUELAS DE LA RIOJA;Calidad;Patricio;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73244;3;2100055138;1/2/23;6;1;140;220;220;180;50;;;4;3;4;6;e.mail;;2/2/23;6;1/2/23
+AUBAY SPAIN, S.A.U.;9001_14001;Clara;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73346;1;2047499920;13/2/23;20;1;143;1960;1960;0;0;;;4;19;4;6;EMAIL;;14/2/23;6;13/2/23
+AUBAY SPAIN, S.A.U.;ENS;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73236;1;2047499920;31/1/23;212;1;148;5400;5400;;;;;4;80;1;5;;;14/2/23;6;31/1/23
+AURA DIFUSION SL;Mantenimiento_anual;Sara;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73088;1;2100084090;16/1/23;192;2;142;330;330;0;0;;;0;68;1;7;;45;;2;16/1/23
+AURA DIFUSION SL;ISO 22301;Sara;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73087;1;2100084090;16/1/23;195;2;142;5500;5500;0;0;;;0;68;1;4;;45;;2;16/1/23
+AURA DIFUSION SL;Adaptacion_norma;Sara;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73089;1;2100084090;16/1/23;188;2;142;3500;3500;0;0;;;0;68;1;4;ens medio;45;;2;16/1/23
+AUTIS INGENIEROS, S.L.U.;Tisax;Jose_Miguel;IT;Aceptado;+ Autopresupuesto_no_otros_casos;APPLUS proporciona contacto;;73272;1;2100084157;3/2/23;213;1;125;7350;7350;0;0;;;13;81;1;4;;45;7/2/23;2;3/2/23
+AUTOCARES CARLOS, S.L.;Mantenimiento;Jose_Miguel;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73217;1;2100003878;30/1/23;28;1;125;250;250;;;;;4;3;4;6;;;2/2/23;6;30/1/23
+AUTOESCUELAS CONFEDERADAS, S.R.L.U,;9001_14001;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73132;16;2100080901;20/1/23;20;1;148;3900;3900;;;;;4;3;4;5;;;24/1/23;6;20/1/23
+AVESAN SANIDAD AMBIENTAL, S.L.;Mantenimiento;Romina;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73064;1;2100064261;13/1/23;28;1;23;600;600;600;0;;;4;3;4;6;;;31/1/23;6;13/1/23
+AYUNTAMIENTO DE CABRA;Mantenimiento;Rafi;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73103;1;2100004455;17/1/23;28;1;152;550;550;0;0;;;4;3;4;6;enmail;91;2/2/23;12;17/1/23
+AYUNTAMIENTO DE CORTECONCEPCIÓN;PLAN DE IGUALDAD;Rafi;IGUALDAD;Pendiente;+ Buena gestión comercial;AXESOR;;73169;1;2047480352;24/1/23;38;2;152;280;280;0;0;;;0;13;3;0;enmail;89;24/1/23;5;24/1/23
+AYUNTAMIENTO DE CORTECONCEPCIÓN;PLAN DE IGUALDAD;Rafi;IGUALDAD;Pendiente;+ Buena gestión comercial;AXESOR;;73168;1;2047480352;24/1/23;38;2;152;120;120;0;0;;;0;13;3;0;enmail;89;24/1/23;5;24/1/23
+AYUNTAMIENTO DE EL CERRO DE ANDÉVALO;PLAN DE IGUALDAD;Rafi;IGUALDAD;Pendiente;+ Buena gestión comercial;AXESOR;;73180;1;2047480360;25/1/23;38;2;152;280;280;0;0;;;0;13;3;4;enmail;89;25/1/23;5;25/1/23
+AYUNTAMIENTO DE EL CERRO DE ANDÉVALO;PLAN DE IGUALDAD;Rafi;IGUALDAD;Pendiente;+ Buena gestión comercial;AXESOR;;73179;1;2047480360;25/1/23;38;2;152;120;120;0;0;;;0;13;3;4;enmail;89;25/1/23;5;25/1/23
+AYUNTAMIENTO DE EL GRANADO;PLAN DE IGUALDAD;Rafi;IGUALDAD;Pendiente;+ Buena gestión comercial;AXESOR;;73183;1;2047480361;25/1/23;38;2;152;280;280;0;0;;;0;13;3;4;enmail;89;25/1/23;5;25/1/23
+AYUNTAMIENTO DE EL GRANADO;PLAN DE IGUALDAD;Rafi;IGUALDAD;Pendiente;+ Buena gestión comercial;AXESOR;;73182;1;2047480361;25/1/23;38;2;152;120;120;0;0;;;0;13;3;4;enmail;89;25/1/23;5;25/1/23
+AYUNTAMIENTO DE LUCENA;Mantenimiento;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73105;1;2047468175;17/1/23;28;2;152;1300;1300;0;0;;;0;3;4;6;enmail;91;17/1/23;12;17/1/23
+AYUNTAMIENTO DE MARCHAMALO;PLAN DE IGUALDAD;Jose_Miguel;IGUALDAD;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73171;1;2100084126;24/1/23;38;2;125;2450;1200;0;0;;;0;13;3;4;;45;;2;24/1/23
+AYUNTAMIENTO DE MINAS DE RIOTINTO;PLAN DE IGUALDAD;Rafi;IGUALDAD;Pendiente;+ Buena gestión comercial;AXESOR;;73197;1;2047480378;26/1/23;38;2;152;2450;2450;0;0;;;0;13;3;4;enmail;89;26/1/23;5;26/1/23
+AYUNTAMIENTO DE VILLAHARTA DE CÓRDOBA;PLAN DE IGUALDAD;Rafi;IGUALDAD;Pendiente;+ Buena gestión comercial;AXESOR;;73114;1;2100004752;18/1/23;38;2;152;120;120;0;0;;;0;13;3;4;enmail;43;18/1/23;5;18/1/23
+AYUNTAMIENTO DE VILLAHARTA DE CÓRDOBA;PLAN DE IGUALDAD;Rafi;IGUALDAD;Pendiente;+ Buena gestión comercial;AXESOR;;73113;1;2100004752;18/1/23;38;2;152;280;280;0;0;;;0;13;3;4;enmail;43;18/1/23;5;18/1/23
+AZIERTA CONTRACT SCIENTIFIC SUPPORT CONSULTING, SL;Mantenimiento;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73155;1;2100079042;23/1/23;28;2;125;1400;1400;0;0;;;0;3;4;6;;45;;6;23/1/23
+BABEL SISTEMAS DE INFORMACION, S.L.;Auditoria;ELENA;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73240;5;2100004906;1/2/23;54;1;137;475;475;;;;;4;19;1;6;;;7/2/23;12;1/2/23
+BASIQGRUP SERVEIS INTEGRALS SL;Clasificacion_obras;Romina;CLASIFICACION CONTRATISTAS;Aceptado;+ Autopresupuesto_no_otros_casos;APPLUS proporciona contacto;;73258;1;2100084151;2/2/23;168;1;23;950;950;50;50;;;2;1;8;4;;45;9/2/23;2;2/2/23
+BICNET SISTEMAS DE INFORMACION, S.L.;9001_27001;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;;;73321;1;2100080896;9/2/23;206;2;125;4200;4200;4200;;;;;19;1;5;;;;;9/2/23
+BIOCLIMA ENERGIAS RENOVABLES, S.L.;Clasificacion_obras;Romina;CLASIFICACION CONTRATISTAS;Pendiente;+ Buena gestión comercial;BVQi proporciona contacto;;73173;1;2100084127;24/1/23;168;2;23;950;950;950;0;;;0;1;8;4;;46;;7;24/1/23
+BLUEKNOW, S.L;Mantenimiento;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73334;1;2100079761;10/2/23;28;2;148;1050;1050;;;;;;19;1;6;;;;6;10/2/23
+BMOTION AUDIOVISUAL SL;Huella_carbono;Marta;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;BD prensa;;73322;1;2100078239;9/2/23;48;2;148;1200;1200;;;;;;3;6;5;;;;6;9/2/23
+BOSTON SCIENTIFIC IBERICA, SA;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73316;1;2100080357;9/2/23;212;2;125;5900;5900;0;0;;;0;80;1;5;;45;;12;9/2/23
+BRAINWIN CONSULTING, S.L.;PCI_DSS;Marta;IT;Pendiente;+ Buena gestión comercial;;;73225;1;2100075089;30/1/23;216;2;148;6800;6800;;;;;;87;1;5;;;;;30/1/23
+BRAINWIN CONSULTING, S.L.;ISAE_3402;Marta;COMPLIANCE;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73143;1;2100075089;23/1/23;215;1;148;1250;1250;;;;;4;82;2;5;Implant Procobro CYG;;9/2/23;6;23/1/23
+BRAINWIN CONSULTING, S.L.;Auditoria;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Camara Comercio proporciona contacto;;73337;1;2100075089;10/2/23;54;1;148;1000;1000;;;;;4;3;1;6;Diggia;;13/2/23;8;10/2/23
+BRAINWIN CONSULTING, S.L.;ISAE_3402;Marta;COMPLIANCE;Pendiente;+ Buena gestión comercial;BD prensa;;73144;1;2100075089;23/1/23;215;2;148;3500;3500;;;;;;82;2;5;Auditoría SOC Brainwin;;;6;23/1/23
+C-TECNOVA S.L.;ENS;Romina;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73067;1;2100081462;13/1/23;212;2;23;5500;3000;4750;4500;;;;19;1;5;;45;;6;13/1/23
+CAESDESUR, S.C.A.;Marcado CE;Romina;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73372;1;2100005659;15/2/23;44;2;23;1800;1800;1800;0;;;0;12;4;5;;46;;6;15/2/23
+CÁMARA OFICIAL DE COMERCIO INDUSTRIA Y SERVICIOS DE VALLADOLID;Mantenimiento;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73366;1;2100063968;14/2/23;28;2;148;900;900;;;;;;19;1;6;;;;6;14/2/23
+CAMPO BÉTICA, S.L.;Auditoria;Rafael;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73116;1;2100005782;18/1/23;54;2;1;530;530;0;0;;;0;10;4;6;mail;50;;12;18/1/23
+CANON ESPAÑA SA;Mantenimiento;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73237;5;2100032825;31/1/23;28;2;148;3400;3400;;;;;;44;1;6;;;;6;31/1/23
+CARLOS GARCIA GUARDEÑO;Calidad;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73086;1;2100084097;16/1/23;6;2;152;1000;1000;;;;;;3;4;4;ENMAIL;;;3;16/1/23
+CASA VICTORIA SUITES;Huella_carbono;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;AXESOR;;73336;1;2100084169;10/2/23;48;2;152;1200;1200;0;0;;;0;35;4;4;enmail;92;10/2/23;5;10/2/23
+CASFID SERVICIOS TECNOLOGICOS, S.L.;ENS;Sara;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73286;1;2100084165;6/2/23;212;2;142;4600;4600;0;0;;;0;80;1;4;;45;;2;6/2/23
+CATFA FORMACION Y EMPLEO, S.A;Calidad;Marta;;Pendiente;+ Buena gestión comercial;BD prensa;;73008;1;2047480431;9/1/23;6;2;148;1000;1000;;;;;;3;;;;;;6;8/1/23
+CATFA FORMACION Y EMPLEO, S.A;Mantenimiento;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73040;1;2047480431;11/1/23;28;1;148;696;696;;;;;4;19;1;7;;;21/1/23;6;11/1/23
+CATRI, S.L.;PLAN DE IGUALDAD;Sara;IGUALDAD;Rechazado;+ Cercanía;APPLUS proporciona contacto;;73128;1;2100084112;19/1/23;38;3;142;1900;750;0;0;;;25;13;3;4;;45;15/2/23;2;19/1/23
+CAVALA Gabinete de Asesoría Empresarial S.L.;Auditoria;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73148;1;2100073405;23/1/23;54;1;148;375;375;;;;;4;19;1;6;MCLehm;;27/1/23;6;23/1/23
+CAVALA Gabinete de Asesoría Empresarial S.L.;ISO 27001;Marta;IT;Pendiente;+ Buena gestión comercial;Camara Comercio proporciona contacto;;73238;1;2100073405;31/1/23;26;2;148;3100;3100;;;;;;19;1;4;CONSULTRANS;;;8;31/1/23
+Centro de Innovacion de Servicios Gestionados Avanzados S.L;ENS;Romina;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73167;1;2100080560;24/1/23;212;1;23;1900;1900;1900;;;;4;80;1;5;;;24/1/23;6;24/1/23
+CENTRO DE MECANIZADOS, S.A.;Mantenimiento;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73230;1;2047467539;30/1/23;28;2;125;950;950;;;;;;3;4;6;;;;12;30/1/23
+CENTRO FORMATIVO ALMORADI, S.L.;Mantenimiento;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73124;1;2100062637;19/1/23;28;1;148;650;650;;;;;4;3;4;6;;;1/2/23;6;19/1/23
+CENTRO FORMATIVO ALMORADI, S.L.;ISO 27001;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73227;1;2100062637;30/1/23;26;1;148;300;300;;;;;4;3;4;6;;;31/1/23;6;30/1/23
+CENTUM SOLUTIONS S.L.U.;Tisax;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73074;1;2100083079;16/1/23;213;2;148;4200;4200;;;;;;81;1;4;;;;6;16/1/23
+CENTUM SOLUTIONS S.L.U.;Mantenimiento;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73057;1;2100083079;12/1/23;28;2;148;1800;1800;;;;;;19;1;;;;;6;12/1/23
+CITELUM IBÉRICA S.A.;Mantenimiento;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73139;16;2100073445;20/1/23;28;2;125;3400;5800;;;;;;3;4;6;;;;6;20/1/23
+Clarel;Memorias no financieras;Marta;COMPLIANCE;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73162;1;2100084124;24/1/23;214;2;148;11500;11500;0;0;;;0;83;2;4;;45;;2;24/1/23
+CLOTHOS S.L.;Mantenimiento;Arsenio;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73111;2;2047468475;18/1/23;28;1;56;395;395;;;;;5;3;4;6;Mail;;19/1/23;12;18/1/23
+CM HOTELS;Huella_carbono;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;AXESOR;;73362;1;2100084185;14/2/23;48;2;152;3900;3900;0;0;;;0;35;4;4;ENMAIL;92;14/2/23;5;14/2/23
+CODIGITAL 360 SOLUTIONS SL;ISO 27001;Sara;IT;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73021;1;2100084069;10/1/23;26;2;142;3400;3400;0;0;;;0;19;1;4;;45;;3;10/1/23
+CODISA - PREDIF ANDALUCIA;Mantenimiento;Jose_Miguel;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73311;1;2100074681;8/2/23;28;1;125;190;190;;40;;;4;3;4;6;;;10/2/23;6;8/2/23
+COFAN LA MANCHA SA;Calidad;Sara;ISO'S;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73002;1;2100084058;4/1/23;6;2;142;2300;2300;0;0;;;0;3;4;4;;45;;3;4/1/23
+COMPAÑIA INSULAR DE COMUNICACIONES CICOM 96, S.L.;ENS;Jose_Miguel;IT;Aceptado;+ Autopresupuesto_no_otros_casos;AXESOR;;73052;1;2100081781;12/1/23;212;1;125;5900;5900;0;0;;;13;80;1;4;;69;23/1/23;5;12/1/23
+COMUNITELIA COMUNICACIONES S.L.;ENS;Marta;IT;Rechazado;+ Cercanía;BD prensa;;73071;1;2100079506;16/1/23;212;3;148;1500;1500;;;;;24;80;1;5;;;6/2/23;6;14/1/23
+Conexionados y montajes electrónicos S.L.(CYME);Calidad;Arsenio;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73059;2;2100073469;12/1/23;6;2;56;2100;2100;;;;;;3;4;4;Mail;;;6;12/1/23
+CONFIDE CORREDURIA;Mantenimiento;Marta;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73345;1;2100084176;13/2/23;28;2;148;2300;2300;;;;;;19;1;6;;;;2;13/2/23
+CONNECTALL SYSTEMS, SL;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73320;1;2100077825;9/2/23;212;2;125;3200;3200;;;;;;80;1;5;;;;12;9/2/23
+CONSTRUCCIONES GALLARDO BARRERA, S.L.;Ampliacion_Clasificacion;Romina;CLASIFICACION CONTRATISTAS;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73126;1;2047467778;19/1/23;171;2;23;800;800;800;50;;;;1;8;5;;65;;12;19/1/23
+CONSTRUCCIONES SIETE ARROYOS, S.L.;Auditoria;Rafael;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73056;1;2047468489;12/1/23;54;1;1;300;300;0;0;;;4;3;4;6;mail;50;16/1/23;12;12/1/23
+CONSTRUCCIONES Y ENCOFRADOS SANCHEZ RODRIGUEZ SL;PLAN DE IGUALDAD;Sara;IGUALDAD;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73100;1;2100009534;17/1/23;38;2;142;2400;750;0;0;;;0;13;3;4;;45;;2;17/1/23
+CONSTRUCTORA MOLINA E HIJOS, S.L.;Renovacion_Clasificacion;Romina;CLASIFICACION CONTRATISTAS;Pendiente;+ Buena gestión comercial;BD prensa;;73206;1;2100009777;27/1/23;172;2;23;490;490;490;0;;;;1;8;6;;;;6;27/1/23
+CONTRATAS Y OBRAS CORE, S.L.;Mantenimiento_anual;Jose_Miguel;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73104;1;2100075853;17/1/23;192;1;125;960;960;;;;73055;;3;4;7;;;17/1/23;12;17/1/23
+COOLTRA MOTOS, S.L.U.;PLAN DE IGUALDAD;ALICIA;IGUALDAD;Aceptado;+ Autopresupuesto_no_otros_casos;BVQi proporciona contacto;;73050;5;2100084083;12/1/23;38;1;159;1800;1800;;;;;;13;3;4;email;;16/1/23;7;12/1/23
+COTO RIVAS S.L.;Memorias no financieras;Marta;COMPLIANCE;Pendiente;+ Buena gestión comercial;BD prensa;;73314;1;2100082273;9/2/23;214;2;148;5900;5900;;;;;;83;2;5;;;;6;9/2/23
+COVLINE CONSULTING, S.L;Calidad;Romina;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;72991;1;2100078463;3/1/23;6;1;23;1450;1450;1450;;;;4;3;4;5;;;15/2/23;6;3/1/23
+CRAYON SOFTWARE EXPERT SPAIN SL;PLAN DE IGUALDAD;Jose_Miguel;IGUALDAD;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73190;1;2100078620;25/1/23;38;2;125;1900;850;0;0;;;0;13;3;4;;45;;2;25/1/23
+CUIDAR-T SALUD ALS S.L.;Mantenimiento_anual;Marta;COMPLIANCE;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73293;1;2100082759;7/2/23;192;1;148;600;600;;;;73249;4;6;2;7;;;7/2/23;6;7/2/23
+CUIDAR-T SALUD ALS S.L.;Proteccion_Datos;Marta;COMPLIANCE;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73249;1;2100082759;1/2/23;39;1;148;590;590;;;;;4;6;2;5;;;7/2/23;6;1/2/23
+DAGRAM TI SL;Auditoria;Sara;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73297;1;2100073427;7/2/23;54;2;142;450;450;0;0;;;0;19;1;6;;66;;12;7/2/23
+DAGRAM TI SL;ENS;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73123;1;2100073427;19/1/23;212;2;148;1700;1700;;;;;;80;1;5;;;;6;19/1/23
+DARA PHARMA SL;ISO 27001;Sara;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73382;1;2100084195;15/2/23;26;2;142;5800;5800;0;0;;;0;19;1;4;;45;;2;15/2/23
+DARWIN PARTNERS S.L.;ISAE_3402;Marta;COMPLIANCE;Aceptado;+ Autopresupuesto_no_otros_casos;Camara Comercio proporciona contacto;;73274;1;2100084159;3/2/23;215;1;148;0;0;0;0;;;9;82;2;4;;46;8/2/23;8;3/2/23
+DATALIA PROTECCIÓN DE DATOS S.L.;Mantenimiento;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73211;1;2100082093;27/1/23;28;2;148;1800;1800;;;;;;19;1;6;;;;6;27/1/23
+DATAX INTELLIGENCE, S.L.;Mantenimiento;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73037;5;2100083027;11/1/23;28;1;148;3920;3920;;;;;4;19;1;6;;;13/1/23;6;11/1/23
+DAYCOM 2000 S.L.;Mantenimiento;Arsenio;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73213;2;2100065428;29/1/23;28;1;56;750;750;;;;;5;3;4;6;Mail;;30/1/23;6;29/1/23
+DBF INFORMATICA;Servicios_Clasificacion;Romina;CLASIFICACION CONTRATISTAS;Pendiente;+ Buena gestión comercial;BD prensa;;73170;1;2100080222;24/1/23;169;2;23;650;650;650;0;;;;1;8;5;;46;;6;24/1/23
+DECORVALLES 2000, SL;Mantenimiento;Jose_Miguel;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73178;1;2100081114;25/1/23;28;1;125;490;490;0;0;;;4;3;4;6;;45;27/1/23;12;25/1/23
+DERMACLAIM LAB SL;ISO 27001;Sara;IT;Rechazado;+ Cercanía;APPLUS proporciona contacto;;73265;1;2100084154;3/2/23;26;3;142;4900;300;650;0;;;17;19;1;4;;45;8/2/23;2;3/2/23
+DICANLUX SERVICES AND ENGINEERING SL;Proteccion_datos_adecuacion_reglamento;Jose_Miguel;COMPLIANCE;Pendiente;+ Buena gestión comercial;BD prensa;;73324;1;2100077673;9/2/23;209;2;125;480;480;0;0;;;0;3;2;5;;45;;6;9/2/23
+DIEGO ARIZA CIVICO;ENS;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73018;1;2100076590;10/1/23;212;2;148;2950;2950;;;;;;80;1;;NAVEGAGPS;;;6;10/1/23
+DIEGO ARIZA CIVICO;ENS;Yolanda Alcaraz;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73364;1;2100076590;14/2/23;212;1;81;260;0;;;;72580;4;80;1;6;email;;14/2/23;6;14/2/23
+DIRECCION Y GESTION TECNICA ALIMENTARIA SA (DISTEGSA SA);PLAN DE IGUALDAD;JESSICA;IGUALDAD;Rechazado;+ Cercanía;BD prensa;;73191;5;2100084131;25/1/23;38;3;160;900;900;;;;;6;13;3;4;Email;;2/2/23;6;25/1/23
+DIRECT DIAGNOSTIC ALLIANCE SL;Auditoria;ELENA;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73373;1;2100080992;15/2/23;54;2;137;3100;3100;;;;;;19;1;6;;;;12;15/2/23
+DISEÑOS METÁLICOS HB;Marcado_CE_Estructuras;Jose_Miguel;ISO'S;Rechazado;+ Cercanía;Arsenio: cliente;;73159;1;2100084117;23/1/23;164;3;125;1700;1700;0;0;;;24;12;4;4;;45;1/2/23;3;23/1/23
+DISTRIBUCIONES HIDALGO, SL;Calidad;Clara;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73339;5;2100077753;10/2/23;6;1;143;570;570;0;0;;;4;3;4;6;email;;14/2/23;6;10/2/23
+DOMAIN LOGIC, SL;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73158;1;2100080483;23/1/23;212;2;125;5200;5200;0;0;;;0;19;1;5;;45;;6;23/1/23
+EASTERN CHEMICALS SA;Calidad;Sara;ISO'S;Rechazado;+ Cercanía;Arsenio: cliente;;73015;1;2100084067;9/1/23;6;3;142;1200;1200;0;0;;;25;3;4;4;;45;23/1/23;3;9/1/23
+EBARA PUMPS IBERIA, S.A.;Mantenimiento;Susana;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;72990;2;2100076785;2/1/23;28;1;25;360;360;;50;;;4;4;4;6;mail susana;;2/1/23;6;2/1/23
+ECITYCLIC SOLUTIONS, S.L.;Mantenimiento_anual;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73358;1;2100083373;14/2/23;192;1;148;3540;3540;;;;;4;80;1;7;;;15/2/23;6;14/2/23
+EDATACONSULTING, S.L.U.;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;;;73250;1;2100065450;1/2/23;212;2;125;4500;4500;;;;;;80;1;5;;;;;1/2/23
+EDHINOR SA;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73187;5;2100041921;25/1/23;48;1;169;1400;1400;;;;73127;4;35;6;5;;;25/1/23;6;25/1/23
+EDHINOR, S.A.;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73127;5;2047482255;19/1/23;48;2;169;1400;1400;0;0;;;;35;6;5;correo electrónico;;;12;19/1/23
+EDITORIAL JURÍDICA SEPIN;Calidad;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;Cliente: recomendación;;73020;2;2047499465;10/1/23;6;2;125;2300;2300;;;;;;3;4;;;;;9;10/1/23
+EDL CREATIVE WATER;Huella_carbono;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73194;1;2100084128;26/1/23;48;2;152;1100;1100;0;0;;;0;35;4;4;enmail;91;26/1/23;6;26/1/23
+EDUARDO NAVADIJOS ARCHITECTS;Calidad;Romina;ISO'S;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73181;1;2100083444;25/1/23;6;2;23;1750;1750;1750;0;;;;3;4;4;;45;;3;25/1/23
+Elástica Productions S.L.U.;Tisax;Marta;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73343;1;2100084175;10/2/23;213;2;148;8400;8400;0;0;;;;81;1;4;;45;;2;10/2/23
+EMPRESA MUNICIPAL INMOBILIARIA DE LIMA S.A.;ISO 27001;Marta;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73076;1;2100084091;16/1/23;26;2;148;9000;9000;0;0;;;0;19;1;4;;68;;2;16/1/23
+ENCLAVE FORMACION S.L.U;Mantenimiento;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73011;1;2100063959;9/1/23;28;2;148;1500;1500;;;;;;19;1;;Yolanda;;;6;9/1/23
+ENERGES GESTIÓN MEDIOAMBIENTAL, S.L.;Mantenimiento;Rafael;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73370;1;2047467974;14/2/23;28;2;1;1200;1200;0;0;;;0;3;4;0;mail;50;;12;14/2/23
+EPTISA TECNOLOGIAS DE LA INFORMACION, SA;ISO 27001;ELENA;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73242;5;2100077862;1/2/23;26;1;137;2700;2700;;;;;4;19;1;6;;;9/2/23;12;1/2/23
+EQUIPOS MECANIZADOS S.L.;Formación;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73193;1;2100049788;26/1/23;53;2;125;450;450;0;0;;;0;80;1;4;;64;;6;26/1/23
+EQUIPOS MECANIZADOS S.L.;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73133;1;2100049788;20/1/23;212;2;125;4200;4200;4600;0;;;;80;1;5;;64;;12;20/1/23
+ESPACK EUROLOGISTICA SL;Tisax;Sara;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73013;1;2100084063;9/1/23;213;2;142;5800;5800;0;0;;;0;81;1;4;;45;;2;9/1/23
+ESPECIALISTAS EN TELECOMUNICACIONES, S.L.;Mantenimiento;Arsenio;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73157;2;2047467994;23/1/23;28;1;56;450;450;;;;;5;3;4;6;Mail;;26/1/23;12;23/1/23
+ESTAMPACIONES CASADO, S.L.;Auditoria;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73072;5;2047468133;16/1/23;54;1;148;215;215;;;;;4;3;4;6;;;17/1/23;6;15/1/23
+Estructuras del Levante Almeriense S.L.;Ampliacion_Clasificacion;Romina;CLASIFICACION CONTRATISTAS;Rechazado;+ Cercanía;BD prensa;;73109;1;2100077680;18/1/23;171;3;23;700;600;0;0;;;26;1;8;5;;;19/1/23;6;18/1/23
+Estructuras del Levante Almeriense S.L.;9001_14001;Romina;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73108;1;2100077680;18/1/23;20;2;23;2250;3350;0;;;;;3;4;5;;;;6;18/1/23
+ESTRUCTURAS METALTERUI, S.L.;Marcado_CE_Estructuras;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;;;73030;1;2100065289;11/1/23;164;2;125;1700;1700;1700;;;;;12;4;;;;;;11/1/23
+EURICAR EUROPA, S.L.;Mantenimiento;Arsenio;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;72994;2;2100055721;3/1/23;28;1;56;410;410;;;;;5;3;4;6;Mail;;3/1/23;6;3/1/23
+EUROFIRE S.L;Mantenimiento;Sara;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73292;1;2100074923;7/2/23;28;2;142;660;660;0;0;;;0;3;4;6;;66;;12;7/2/23
+EUROPEA DE MANUFACTURAS ECHARTE, S.L.;Calidad;Patricio;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73136;3;2100031275;20/1/23;6;1;140;400;400;220;50;;;4;3;4;6;e.mail;;20/1/23;6;20/1/23
+EUROPISTA EDUCACION VIAL S.L.;ISO 27001;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cliente: recomendación;;73273;1;2100084158;3/2/23;26;1;148;2700;2700;;;;;9;19;1;4;enmail;;7/2/23;9;3/2/23
+EVENTOLOGIES S.L.;Mantenimiento;Romina;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73175;1;2100081820;24/1/23;28;1;23;2520;2520;2520;;;;4;19;1;7;;;15/2/23;12;24/1/23
+EVERYDAY SOFTWARE, S.L.;varios;Sara;IT;Realizar nueva oferta;+ Equipo de trabajo;Cristina: conocidos;;73202;1;2100079637;26/1/23;43;6;142;550;550;0;0;;;28;19;1;5;TRADUCCIÓN AL INGLES ;66;1/2/23;12;26/1/23
+EVOLUTION TRAINING SL;Mantenimiento;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73147;1;2100082319;21/1/23;28;1;148;1044;1044;;;;73040;4;3;4;7;;;21/1/23;6;23/1/23
+EXCAVACIONES LEAL, S.L.;Mantenimiento;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73039;5;2047468382;11/1/23;28;1;148;285;285;;;;;4;3;4;6;;;23/1/23;6;11/1/23
+EXCEM GRUPO 1971,S.A.;PLAN DE IGUALDAD;Marta;IGUALDAD;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73220;1;2047467930;30/1/23;38;1;148;0;0;;;;;4;13;3;5;;;30/1/23;6;30/1/23
+EXCEM GRUPO 1971,S.A.;PLAN DE IGUALDAD;Ana;IGUALDAD;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73226;1;2047467930;30/1/23;38;1;145;60;60;;60;;73220;4;13;3;6;;;30/1/23;6;30/1/23
+EXPERT ONE C.S.T., S.L;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73129;5;2100076225;19/1/23;48;2;169;650;1950;0;0;;;;35;6;5;correo electrónico;;;12;19/1/23
+EXPERT ONE C.S.T., S.L;ISO 27001;Clara;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73138;5;2100076225;20/1/23;26;2;143;655;655;0;0;;;;19;1;5;email;;;6;20/1/23
+EXPERT ONE C.S.T., S.L;ISO 27001;Clara;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73137;5;2100076225;20/1/23;26;2;143;655;655;0;0;;;4;19;1;5;email;;;6;20/1/23
+EXTERNALIZACION DE NOTIFICADOS Y APLICACIONES ONLINE S.L;Mantenimiento;Sara;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73150;1;2100080256;23/1/23;28;2;142;800;800;0;0;;;0;19;1;6;;66;;12;23/1/23
+FACILGEST;ENS;Sara;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73367;1;2100084187;14/2/23;212;2;142;3600;3600;0;0;;;0;80;1;4;;45;;2;14/2/23
+FASTLY CLOUD IBERICA, S.L.;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73330;1;2100084170;10/2/23;212;2;125;4900;4900;0;0;;;0;80;1;4;;45;;2;10/2/23
+FINCA SERENA MALLORCA;Huella_carbono;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73338;11;2100084173;10/2/23;48;2;152;1700;1700;0;0;;;0;35;4;4;enmail;92;10/2/23;2;10/2/23
+FORESTJARDIN, S.L.;9001_14001_18001;Sara;ADMINISTRACION GENERAL;Pendiente;+ Buena gestión comercial;Asesorias;;73342;1;2047467827;10/2/23;23;2;142;3100;3100;0;0;;;0;3;0;4;;45;;4;10/2/23
+FORGOTTEN EMPIRES SPAIN, S.L.;Mantenimiento;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73038;1;2100082782;11/1/23;28;2;125;1750;0;0;0;;;;19;1;6;;45;;12;11/1/23
+FORGOTTEN SOFTWARE S.L.;Mantenimiento;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73081;1;2100083042;16/1/23;28;2;125;1800;1800;;;;73038;;19;1;6;;;;12;16/1/23
+FORMACION, INNOVACION Y EMPLEO SL;Mantenimiento;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73146;2;2100076496;21/1/23;28;1;148;1044;1044;;;;73040;4;3;4;7;;;21/1/23;6;23/1/23
+FRANCISCO JOSE MOLINA GALLEGOS;Mantenimiento;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;Camara Comercio proporciona contacto;;73255;1;2100081810;2/2/23;28;2;125;480;480;0;0;;;0;3;4;6;;46;;8;2/2/23
+FUNDACIÓN CENTRO TECNOLÓGICO DE ACUICULTURA DE ANDALUCÍA;PLAN DE IGUALDAD;Jose_Miguel;IGUALDAD;Rechazado;+ Cercanía;APPLUS proporciona contacto;;73149;1;2100084119;23/1/23;38;3;125;1800;1800;600;0;;;19;13;3;4;;45;7/2/23;2;23/1/23
+FUNDACION IBN BATTUTA;Mantenimiento;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73319;1;2100078045;9/2/23;28;1;148;850;850;;;;;4;3;4;6;;;9/2/23;6;9/2/23
+FUNDACION VALENTIA HUESCA;Servicios_Clasificacion;Romina;CLASIFICACION CONTRATISTAS;Rechazado;+ Cercanía;APPLUS proporciona contacto;;73012;1;2100084062;9/1/23;169;3;23;400;750;950;0;;;23;1;8;4;;45;30/1/23;2;9/1/23
+GABINET BALEAR DINTEGRACIO LABORAL, S.L.;ENS;Sara;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73305;1;2100082685;8/2/23;212;1;142;600;600;;;;73279,1;5;80;1;5;;;8/2/23;12;8/2/23
+GARCIA TARIFA LASER,S.L.L.;Mantenimiento;Marta;IT;Pendiente;+ Buena gestión comercial;;;73254;1;2100079916;2/2/23;28;2;148;2000;2000;;;;;;81;1;6;;;;;2/2/23
+GEDIA ESPAÑA SLU;Huella_carbono;Sara;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73329;1;2100042058;9/2/23;48;2;142;2800;2800;0;0;;;0;35;6;4;;45;;2;9/2/23
+GESTION TST CONSULTING BALEARES 2010 SL;Integrado_VARIOS;Sara;IT;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73101;1;2100084102;17/1/23;176;2;142;1200;1500;2300;4500;;;0;19;1;4;9+14+27;45;;3;17/1/23
+GLOBAL TECNOLOGY 4 ELITE, S.L;Auditoria;Marta;IT;Pendiente;+ Buena gestión comercial;Camara Comercio proporciona contacto;;73355;1;2100062030;13/2/23;54;2;148;350;350;;;;;;81;1;6;T&W;;;8;13/2/23
+GODUR ANDALUCIA, S.L.;Auditoria;Rafael;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73085;1;2047467931;16/1/23;54;1;1;235;235;0;0;;;4;3;4;6;mail;50;16/1/23;12;16/1/23
+GPS Open Source;ENS;Jose_Miguel;IT;Rechazado;+ Cercanía;APPLUS proporciona contacto;;73271;1;2100075274;3/2/23;212;3;125;3800;3800;3800;0;;;24;80;1;4;;45;13/2/23;2;3/2/23
+GRESALBA S.A.;Mantenimiento;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73044;1;2100081949;12/1/23;28;1;148;1050;1050;;;;70093_1;4;19;1;6;;;12/1/23;6;12/1/23
+Grupo Cr Tecno Sl;Integrado_VARIOS;Sara;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73243;1;2100081681;1/2/23;176;2;142;4900;2300;300;0;;;0;80;4;4;;45;;6;1/2/23
+GRUPO MAGNA;Calidad;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73043;1;2100084080;12/1/23;6;2;152;1400;1400;0;0;;;;16;4;4;enmail;45;;2;12/1/23
+GSI SEGURIDAD;ENS;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73166;1;2100084125;24/1/23;212;2;148;4900;4900;0;0;;;0;80;1;4;;46;;6;24/1/23
+GSI SEGURIDAD;Huella_carbono;Marta;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;BD prensa;;73385;1;2100084125;16/2/23;48;2;148;1800;1800;;;;;;35;6;5;;;;6;16/2/23
+GSI SEGURIDAD;Huella_carbono;Marta;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;BD prensa;;73386;1;2100084125;16/2/23;48;2;148;1800;1800;;;;;;35;6;5;;;;6;16/2/23
+Hartmann Compound Professionals;PLAN DE IGUALDAD;Jose_Miguel;IGUALDAD;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73359;1;2100084184;14/2/23;38;2;125;1800;1800;1800;0;;;0;13;3;4;;45;;2;14/2/23
+HCA CONSULTORES;ISAE_3402;Marta;COMPLIANCE;Pendiente;+ Buena gestión comercial;;;73341;1;2100084174;10/2/23;215;2;148;8200;8200;0;0;;;0;82;2;4;EMAIL MARTA;68;;0;10/2/23
+HEALTH TRANSPORTATION GROUP;ENS;Ana;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73245;1;2100078305;1/2/23;212;1;145;380;490;380;;;72560;4;80;1;6;;;1/2/23;6;1/2/23
+HEALTH TRANSPORTATION GROUP;Mantenimiento;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73263;1;2100078305;2/2/23;28;2;148;19800;19800;;;;;4;19;1;7;;;;6;2/2/23
+HEWLETT PACKARD ESPAÑOLA SL;ENS;Marta;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73184;1;2100032575;25/1/23;212;2;148;8300;8300;0;0;;;0;80;1;4;;45;;2;25/1/23
+Hidraulica y Fotovoltaica SL;Mantenimiento;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73285;1;2100074037;6/2/23;28;2;125;650;650;;;;;;3;4;6;;;;12;6/2/23
+HIDROINGENIA, S.L.;Mantenimiento;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73284;1;2047467832;6/2/23;28;2;125;350;350;;;;;;3;4;6;;;;12;6/2/23
+HNOS JIMENEZ GOMEZ SL;PLAN DE IGUALDAD;Marta;IGUALDAD;Pendiente;+ Buena gestión comercial;Camara Comercio proporciona contacto;;73356;1;2100084183;13/2/23;38;2;148;2400;2400;0;0;;;0;13;3;4;;46;;8;13/2/23
+HORTICINA SA;Huella_carbono;Sara;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73151;1;2100084109;23/1/23;48;2;142;900;1400;0;0;;;0;35;6;4;rev1;45;;2;23/1/23
+HORTICINA SA;varios;Sara;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73246;1;2100084109;1/2/23;43;2;142;1600;300;300;0;;;0;35;6;4;;45;;2;1/2/23
+HOTEL BRISA;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73260;5;2100084152;2/2/23;48;2;169;1200;1200;;;;;;35;6;4;correo electrónico;;;2;2/2/23
+HOTEL CAS XORC, S.L.;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73282;5;2100084164;6/2/23;48;2;169;990;990;;;;;;35;6;4;correo electrónico;;;2;6/2/23
+HOTEL MIRADOR RIA DE AROSA;;Rafi;IGUALDAD;Pendiente;+ Buena gestión comercial;Asesorias;;73196;1;2100084133;26/1/23;0;2;152;1100;1100;0;0;;;0;13;3;4;enmail;91;26/1/23;4;26/1/23
+HOTEL ONE IBIZA SUITES;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73219;5;2100084137;30/1/23;48;2;169;1500;1500;0;0;;;;45;6;4;correo electrónico;;;2;30/1/23
+HOTEL PLAYA GOLF;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;AENOR proporciona contacto;;73195;5;2100084132;26/1/23;48;2;169;1500;1500;0;0;;;;45;6;4;correo electrónico;;;1;26/1/23
+HOTEL Y CONFERENCE CENTRE SITGES, S.L.;PLAN DE IGUALDAD;Romina;IGUALDAD;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73200;1;2100078560;26/1/23;38;1;23;2000;2000;2000;0;;;2;13;3;5;;;13/2/23;12;26/1/23
+HOTELES BONANZA;Huella_carbono;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73347;1;2100084177;13/2/23;48;2;152;2900;2900;0;0;;;;35;4;4;enmail;92;;2;13/2/23
+IAAS365, S. L.;Auditoria;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73252;1;2100075871;1/2/23;54;1;148;480;480;;;;;4;19;1;6;;;2/2/23;6;1/2/23
+IBERIA FINANCIAL SOFTWARE S.L.;ISO 27001;ELENA;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73241;16;2100073011;1/2/23;26;2;137;1848;1848;;;;;;19;1;6;;;;12;1/2/23
+IBERICA GRAFICA, S.A.;Mantenimiento;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73163;1;2100080807;24/1/23;28;1;148;480;480;;;;;4;21;4;6;...;;24/1/23;6;24/1/23
+IFAP MADRID S.L.;Mantenimiento;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73145;1;2047499190;21/1/23;28;1;148;1044;1044;;;;73040;4;3;4;7;;;21/1/23;6;23/1/23
+IGNOS ESTUDIOS DE INGENIERIA SL;ISO 27001;Sara;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73054;1;2100081086;12/1/23;26;1;142;1800;1800;0;0;;;5;54;1;5;;66;30/1/23;6;12/1/23
+IGNOS ESTUDIOS DE INGENIERIA SL;ENS;Sara;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73053;1;2100081086;12/1/23;212;1;142;3400;3400;0;0;;;5;54;1;5;;66;30/1/23;6;12/1/23
+IMAN SEGURIDAD S.A.;Memorias no financieras;Marta;COMPLIANCE;Pendiente;+ Buena gestión comercial;ECA proporciona contacto;;73262;1;2047475232;2/2/23;214;2;148;4200;4200;;;;;;83;2;5;;;;13;2/2/23
+Imantia Desarrollo Directivo S.L.;Calidad;ELENA;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73215;5;2100073066;30/1/23;6;1;137;1200;1200;;;;;4;3;4;6;;;1/2/23;12;30/1/23
+IMASE SEGURIDAD SL;ENS;Sara;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73368;1;2100084186;14/2/23;212;2;142;4600;4600;0;0;;;0;80;1;4;;45;;2;14/2/23
+IMASGAL;9001_14001;Romina;ISO'S;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73118;1;2100084106;18/1/23;20;2;23;1100;2000;0;0;;;0;3;4;4;;45;;3;18/1/23
+INCORPORA 2 SL;ENS;Sara;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73306;1;2100082686;8/2/23;212;1;142;200;200;;;;73279,1;5;80;1;5;;;8/2/23;12;8/2/23
+INDUSTRIAL DE ELEVACION SA;PLAN DE IGUALDAD;Sara;IGUALDAD;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73010;1;2100042046;9/1/23;38;2;142;3600;3600;0;0;;;0;13;3;4;;45;;2;9/1/23
+INDUSTRIAS BETIK, SA;Huella_carbono;Sara;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73350;1;2100083935;13/2/23;48;2;142;900;900;0;0;;;0;35;6;4;;45;;2;13/2/23
+INDUSTRIAS PUIGJANER SA;ISO 27001;Sara;IT;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73099;1;2100084100;17/1/23;26;2;142;4700;4700;0;0;;;0;19;1;4;;45;;3;17/1/23
+INERTIM RESEARCH S.L.;Mantenimiento;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73280;1;2100080388;6/2/23;28;1;148;890;890;;;;;4;54;1;6;;;6/2/23;12;6/2/23
+INFINITAS MILLA SL;Calidad;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73082;1;2100084094;16/1/23;6;2;152;1100;1100;;;;;;3;4;4;enmail;;;3;16/1/23
+INFISA CONSULTORIA Y APLICACIONES, S.A.;Mantenimiento;Jose_Miguel;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73223;1;2100081253;30/1/23;28;1;125;1420;1420;;;;;4;3;1;6;;;31/1/23;12;30/1/23
+INFORMATION AND COMMUNICATION SOLUTIONS S.L;ENS;Marta;IT;Pendiente;+ Buena gestión comercial;Camara Comercio proporciona contacto;;73352;1;2100081466;13/2/23;212;2;148;3500;3500;;;;;11;80;1;5;;;;8;13/2/23
+INFORMOLDES;Tisax;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;BVQi proporciona contacto;;73160;1;2100084122;23/1/23;213;2;125;4400;6150;0;0;;;0;81;1;4;;46;;7;23/1/23
+INGENIELEC, S.L.U.;Renovacion_Clasificacion;Romina;CLASIFICACION CONTRATISTAS;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73033;1;2047468220;11/1/23;172;1;23;450;450;450;0;;;4;1;8;6;;65;1/2/23;12;11/1/23
+INGLES PROFESIONAL;Calidad;Sara;ISO'S;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73130;1;2100084111;19/1/23;6;2;142;900;900;0;0;;;0;3;4;4;;45;;3;19/1/23
+INGRUACOR SL (TECNIEXTINTOR);Auditoria;Sara;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73096;1;2100075587;17/1/23;54;1;142;250;250;0;0;;;4;3;4;6;;66;14/2/23;12;17/1/23
+INILAB SL;Mantenimiento_anual;Sara;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73301;1;2100076495;8/2/23;192;2;142;2880;2880;240;0;;;0;3;4;7;;66;;12;8/2/23
+INSTITUTO DENTAL ORIS, S.L.;Mantenimiento;Rafael;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73035;1;2100055910;11/1/23;28;1;1;300;300;0;0;;;4;3;4;6;mail;50;12/1/23;12;11/1/23
+INTEGRA NETCOM SOLUTIONS 034, S.L.;Calidad;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73277;1;2100084162;6/2/23;6;2;125;1300;1300;0;0;;;0;3;4;4;;45;;2;6/2/23
+IPRO ORGANIZACION SL;ENS;Sara;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73061;1;2100078023;13/1/23;212;2;142;2000;2000;0;0;;;0;80;1;5;;66;;6;13/1/23
+IPRONET SISTEMAS SL;ISO 27001;Sara;IT;Aceptado;+ Autopresupuesto_no_otros_casos;APPLUS proporciona contacto;;73269;1;2100080408;3/2/23;26;1;142;3600;3600;0;0;;;2;19;1;4;;45;7/2/23;2;3/2/23
+IQVIA INFORMATION S.A.;ENS;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73112;16;2100077327;18/1/23;212;2;148;7800;7800;;;;;;80;1;5;;;;6;18/1/23
+IQVIA INFORMATION S.A.;ISO 27001;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73340;16;2100077327;10/2/23;26;2;148;3200;3200;;;;;;3;1;5;;;;6;10/2/23
+ITBID TECHNOLOGIES 2002 SL;Auditoria;Sara;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73005;1;2100075143;4/1/23;54;1;142;750;750;0;0;;;4;19;1;6;;66;20/1/23;12;4/1/23
+ITS GROUP - SPAIN;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73369;1;2100084188;14/2/23;212;2;125;3900;3900;0;0;;;0;80;1;4;;45;;2;14/2/23
+IVACUS GLOBAL PARTNERS, S.L.;ISAE_3402;Marta;COMPLIANCE;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73119;1;2100084107;18/1/23;215;2;148;3300;3300;0;0;;;;82;2;4;;45;;2;18/1/23
+JALVIU, S.L.;Auditoria;Sara;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73006;1;2100075712;4/1/23;54;1;142;250;250;0;0;;;4;3;4;6;;66;15/2/23;12;4/1/23
+JIRADA;ISO 22301;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73198;1;2100074525;26/1/23;195;2;125;1800;1800;0;0;;;0;92;1;4;;45;;3;26/1/23
+LA GOLETA HOTEL DE MAR;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73229;5;2100084140;30/1/23;48;2;169;500;500;0;0;;;;35;6;4;correo electrónico;;;2;30/1/23
+LA GOLETA HOTEL DE MAR;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73228;5;2100084140;30/1/23;48;2;169;1500;1500;0;0;;;;35;6;4;correo electrónico;;;2;30/1/23
+LABORATORIO Y CONSULTORIA CARRING,S.L.;Mantenimiento;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73152;1;2047468327;23/1/23;28;1;148;420;420;;;;;4;3;4;6;;;23/1/23;6;23/1/23
+LF CHANNEL SL;ISO 27001;Sara;IT;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73383;1;2100084196;15/2/23;26;2;142;3900;3900;300;400;;;0;19;1;4;;45;;3;15/2/23
+LGAI TECHNOLOGICAL CENTER, S.A.;ENI;Ana;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Conocidos en empresas;;73066;9;2047468267;13/1/23;219;1;145;980;980;;;;72093;29;90;1;8;EMAIL;;13/1/23;11;13/1/23
+LICENCIAS, PROYECTOS, SEGURIDAD Y SALUD S.L;OHSAS;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73375;1;2100084189;15/2/23;36;2;125;3900;1300;0;0;;;0;5;4;4;;45;;2;15/2/23
+LIGHTMAX S.L.;9001_14001;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73077;5;2100084092;16/1/23;20;2;169;3200;350;250;0;;;;3;6;4;email;;;2;16/1/23
+LIMIT TECNOLOGIES SL;ENS;Sara;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73224;1;2100080928;30/1/23;212;1;142;1500;1500;;;;;5;80;1;5;;;8/2/23;12;30/1/23
+LINGOTES ESPECIALES, S.A.;Tisax;Jose_Miguel;IT;Aceptado;+ Autopresupuesto_no_otros_casos;AXESOR;;73106;1;2100034483;17/1/23;213;1;125;4900;4900;700;0;;;13;81;1;4;;81;18/1/23;5;17/1/23
+LOAN EXTINTORES SC;Mantenimiento;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73374;1;2100020975;15/2/23;28;2;125;400;400;;;;;;3;4;6;;;;12;15/2/23
+LOTERIES DE CATALUNYA SAU;Huella_carbono;Marta;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;BD prensa;;73115;1;2100081919;18/1/23;48;2;148;2900;2900;;;;;;35;6;5;;;;6;18/1/23
+LPS Facility;9001_14001_18001;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73376;1;2100084190;15/2/23;23;2;125;4300;0;0;0;;;0;3;4;4;;45;;2;15/2/23
+LUIS MARIA ALONSO SL;9001_14001;Patricio;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73281;3;2100011845;6/2/23;20;1;140;380;380;220;50;;;4;3;4;6;e.mail;;7/2/23;6;6/2/23
+MACAL CONSTRUCCIONES Y CONTRATAS, S.L.;Renovacion_Clasificacion;Romina;CLASIFICACION CONTRATISTAS;Pendiente;+ Buena gestión comercial;BD prensa;;73363;1;2100077737;14/2/23;172;2;23;495;495;495;;;;;1;8;6;;;;6;14/2/23
+MAGNA MIRRORS ESPAÑA, SA;PLAN DE IGUALDAD;Sara;IGUALDAD;Pendiente;+ Buena gestión comercial;Asesorias;;73207;1;2100079054;27/1/23;38;2;142;1750;1080;500;600;;;0;13;3;4;;45;;4;27/1/23
+MAHECO SA;PLAN DE IGUALDAD;Sara;IGUALDAD;Rechazado;+ Cercanía;APPLUS proporciona contacto;;73003;1;2100084059;4/1/23;38;3;142;2600;850;0;0;;;16;13;3;4;;45;24/1/23;2;4/1/23
+MALLA 3 ESTRUCTURAS Y ENVOLVENTES METALICAS S.A.;Mantenimiento_anual;Jose_Miguel;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73107;1;2100075854;17/1/23;192;1;125;960;960;960;;;73055;;3;4;7;;;17/1/23;12;17/1/23
+MANUEL VAZQUEZ VAZQUEZ SL;PLAN DE IGUALDAD;Sara;IGUALDAD;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73354;1;2100084182;13/2/23;38;2;142;2300;750;0;0;;;0;13;3;4;;45;;2;13/2/23
+MANUFACTURAS METALICAS LUISIANERAS, S.L.;Auditoria;Rafael;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;72998;1;2047468451;3/1/23;54;1;1;285;285;0;0;;;4;3;4;6;mail;50;5/1/23;6;3/1/23
+MAPFRE, S.A.;ISAE_3402;Marta;COMPLIANCE;Pendiente;+ Buena gestión comercial;;;73267;1;2100076596;3/2/23;215;2;148;0;0;;;;;;82;2;4;;;;;3/2/23
+MARGO MANIPULADOS, SL;Mantenimiento;Jose_Miguel;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73270;1;2100080914;3/2/23;28;1;125;400;400;0;0;;;4;3;4;6;;64;14/2/23;6;3/2/23
+MARKETING AND BASES DE DATOS CONSULTORES, S.L.;ISO 27001;Jose_Miguel;IT;Aceptado;+ Autopresupuesto_no_otros_casos;APPLUS proporciona contacto;;73176;1;2100083774;24/1/23;26;1;125;3600;3600;3600;;;72236_2;13;19;1;4;;;24/1/23;2;24/1/23
+Marsdigital sl;ISO 27001;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73212;1;2100067568;27/1/23;26;2;125;2300;2300;0;0;;;0;19;1;4;;45;;2;27/1/23
+MARTINVANS CONSULTORES SL;Mantenimiento;Sara;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73294;1;2100081045;7/2/23;28;2;142;300;300;0;0;;;0;3;4;6;;66;;12;7/2/23
+MASTER ESTETIC, SLU;;Sara;ISO'S;Realizar nueva oferta;+ Equipo de trabajo;Cristina: conocidos;;73295;1;2100075505;7/2/23;0;6;142;360;360;0;0;;;30;3;4;6;;66;7/2/23;12;7/2/23
+MAXIMA FORMACION, S.L.;PLAN DE IGUALDAD;Jose_Miguel;IGUALDAD;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73312;1;2100056281;8/2/23;38;1;125;350;350;150;;;;4;13;3;4;;;10/2/23;6;8/2/23
+MAXIMA FORMACION, S.L.;PLAN DE IGUALDAD;Jose_Miguel;IGUALDAD;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73131;1;2100056281;19/1/23;38;1;125;500;500;;;;;4;13;3;5;;;20/1/23;6;19/1/23
+MAXIMA FORMACION, S.L.;ISO 27001;Jose_Miguel;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73313;1;2100056281;8/2/23;26;1;125;2800;2800;;;;;4;19;1;5;;;10/2/23;6;8/2/23
+MAXINFRAESCTRUCTURAS, S.A.;Marcado CE;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73060;5;2100031416;13/1/23;44;1;148;500;500;;;;;4;12;4;6;;;13/1/23;6;13/1/23
+MAYTE R;PLAN DE IGUALDAD;Sara;IGUALDAD;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73380;1;2100084193;15/2/23;38;2;142;950;350;0;0;;;0;13;3;4;;45;;2;15/2/23
+Mazars Servicios Profesionales, S.L.P.;ISAE_3402;Marta;COMPLIANCE;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73058;1;2100084085;12/1/23;215;2;148;8000;8000;0;0;;;0;82;2;;;45;;2;12/1/23
+MEDINA TRAVEL BUS, S.L.;Mantenimiento;Sara;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73063;1;2100052646;13/1/23;28;1;142;260;260;;;;;4;3;4;6;;;13/1/23;6;13/1/23
+MEIGO INNOVACIÓN;ENS;Jose_Miguel;IT;Rechazado;+ Cercanía;APPLUS proporciona contacto;;73186;1;2100084130;25/1/23;212;3;125;4000;4000;0;0;;;24;80;1;4;;45;6/2/23;2;25/1/23
+Mercury Trade Finance Solutions, S.L;ISO 27001;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cliente: recomendación;;73266;1;2100084155;3/2/23;26;2;125;4800;6400;;;;;;19;1;4;;;;9;3/2/23
+MÉTRICA CONSULTING S.L.;Mantenimiento;ELENA;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73307;16;2100073370;8/2/23;28;1;137;395;395;;;;;4;19;1;6;;;13/2/23;12;8/2/23
+MÉTRICA CONSULTING S.L.;LOPD_A_y_M;ELENA;COMPLIANCE;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73308;16;2100073370;8/2/23;186;1;137;495;495;;;;;4;6;2;6;;;13/2/23;12;8/2/23
+MONDAT BAKER, S.L.;Auditoria;Rafael;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73371;1;2100053521;14/2/23;54;2;1;500;500;0;0;;;0;3;4;0;mail;50;;6;14/2/23
+MOVIMIENTOS DE TIERRA EL PRADILLO, S.L.;Auditoria;Romina;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73257;1;2047468421;2/2/23;54;1;23;360;360;360;;;;4;3;4;6;;;8/2/23;6;2/2/23
+MUNIDIGITAL OU;ISO 27001;Sara;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;72999;1;2100081822;4/1/23;26;2;142;1950;1950;0;0;;;0;80;1;5;;66;;12;4/1/23
+NANFOR IBERICA SL;PLAN DE IGUALDAD;Sara;IGUALDAD;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73203;1;2100084135;26/1/23;38;2;142;1900;850;0;0;;;0;13;3;4;;45;;2;26/1/23
+Nartex Software, S.L.;Mantenimiento;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BVQi proporciona contacto;;73140;1;2100065452;22/1/23;28;1;148;1029,6;1029,6;;;;70687_1;4;80;1;7;;;20/1/23;7;22/1/23
+NEOCHECK, SL;ISO 27001;Clara;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73283;2;2100076544;6/2/23;26;2;143;2995;2995;0;0;;;4;19;4;6;email;;;12;6/2/23
+NITROPARIS, S.L.;PECAL;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73235;1;2100084141;31/1/23;37;2;125;3900;3900;0;0;;;0;40;4;4;;45;;2;31/1/23
+NOUS BALEARES;Huella_carbono;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;AXESOR;;73378;1;2100084191;15/2/23;48;2;152;1900;1900;0;0;;;0;35;4;4;enmail;92;15/2/23;5;15/2/23
+NOUS FORMACIONES;Calidad;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73024;1;2100084073;10/1/23;6;2;152;1200;1200;;;;;;3;4;4;enmail;;;3;10/1/23
+NOVAIGRUP, PATERNA DISSENY, SL;Mantenimiento;Sara;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73289;1;2100077152;7/2/23;28;2;142;950;950;0;0;;;0;19;4;6;;66;;12;7/2/23
+NOVAIGRUP, PATERNA DISSENY, SL;Requisitos legales;Sara;COMPLIANCE;Pendiente;+ Buena gestión comercial;BD prensa;;73288;1;2100077152;7/2/23;59;2;142;1200;1200;0;0;;;0;19;2;5;prevencion riesgos penales;66;;6;7/2/23
+NUCORO HOLDINGS, LTD.;Mantenimiento;ELENA;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73315;5;2100080230;9/2/23;28;2;137;2400;2400;;;;;4;19;1;6;;;;12;9/2/23
+Obra de Mortero Tecnológico 2011, S.L.;9001_14001;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73379;1;2100084192;15/2/23;20;2;125;3200;3200;0;0;;;0;3;4;4;;45;;3;15/2/23
+OCADO SPAIN SL;PLAN DE IGUALDAD;Sara;IGUALDAD;Rechazado;+ Cercanía;APPLUS proporciona contacto;;72997;1;2100084057;3/1/23;38;3;142;3200;1050;0;0;;2900;17;13;3;4;;45;10/2/23;2;3/1/23
+OMNIA INFOSYS, S.L.U.;Mantenimiento;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73142;1;2100077206;20/1/23;28;1;148;2995,2;2995,2;;;;70687_1;4;80;1;7;;;20/1/23;6;22/1/23
+ON4 Servicios y Formacion, SL;ENS;Sara;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73025;1;2100074675;10/1/23;212;2;142;2900;2900;0;0;;;0;19;1;4;;45;;2;10/1/23
+OPEN HEALTHCARE SL;Ciberseguridad;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73049;1;2100080908;12/1/23;220;2;148;2400;2400;;;;;;91;1;;;;;6;12/1/23
+OPENSPRING IT IBERIA SLU;ENS;ELENA;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73291;5;2100080041;7/2/23;212;2;137;4900;4900;;;;;;80;1;5;;;;12;7/2/23
+OPTICAL NETWORKS;20000;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73276;1;2100084161;6/2/23;196;2;125;8600;8600;;;;;;44;1;4;;;;3;6/2/23
+PANTALEÓN GONZÁLEZ CARRIÓN, S.L.;Auditoria;Sara;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73360;1;2047468209;14/2/23;54;1;142;350;350;;;;;4;3;4;6;;;14/2/23;6;14/2/23
+PARQUE MOVI DE SEGURIDAD, S.L.;Mantenimiento;Jose_Miguel;ADMINISTRACION GENERAL;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73069;1;2100082198;13/1/23;28;2;125;800;800;300;0;;;;5;0;6;;45;;12;13/1/23
+PAVIMENTOS ASFÁLTICOS MÁLAGA, S.A.;OHSAS;Rafael;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73134;1;2047467687;20/1/23;36;1;1;1200;1200;0;0;;;4;3;4;5;mail;50;20/1/23;6;20/1/23
+Petrolam Infraestructuras S.L.;Mantenimiento;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73075;1;2100072859;16/1/23;28;1;148;900;900;;;;;4;3;4;6;;;16/1/23;6;16/1/23
+Petrolam Infraestructuras S.L.;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73344;1;2100072859;13/2/23;48;2;169;1200;1200;;;;;;35;6;7;correo electrónico;;;12;13/2/23
+Petrolam Infraestructuras S.L.;Huella_carbono;Marta;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73091;1;2100072859;17/1/23;48;1;148;900;900;;;;;4;35;6;5;;;17/1/23;6;17/1/23
+PLASTICOS DE MOLINA S.L.;Auditoria;Romina;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73046;1;2100080346;12/1/23;54;2;23;510;510;320;0;;;;3;4;6;;45;;12;12/1/23
+Policres Esgon, S.A.;Calidad;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;Asesorias;;73097;1;2100049503;17/1/23;6;2;152;1100;1100;0;0;;;0;4;4;4;enmail;45;17/1/23;4;17/1/23
+Projectel Transfers S.L.;Auditoria;Sara;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;72992;1;2100074653;3/1/23;54;1;142;430;430;0;0;;;4;3;4;6;;66;3/1/23;12;3/1/23
+PROSEGUR CIBERSEGURIDAD, S.L.;ENS;Marta;IT;Pendiente;+ Buena gestión comercial;;;73234;1;2100081500;31/1/23;212;2;148;6000;6000;;;;;;80;1;5;;;;;31/1/23
+PROYECTOS Y MONTAJES ELECTRICOS RIOJANOS, S.L.;Renovacion_Clasificacion;Romina;CLASIFICACION CONTRATISTAS;Rechazado;+ Cercanía;Cristina: conocidos;;73051;1;2100054366;12/1/23;172;3;23;490;490;490;0;;;25;1;8;6;;65;6/2/23;12;12/1/23
+PSD SECURITY, S.L.;9001_14001;Romina;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73029;1;2100082104;11/1/23;20;2;23;3000;3000;3000;;;;;3;4;;;;;6;11/1/23
+PSD SECURITY, S.L.;Mantenimiento;Romina;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73019;1;2100082104;10/1/23;28;2;23;1100;1100;1100;0;;;;19;1;;;;;6;10/1/23
+PUY DU FOU ESPANA, S.A.;9001_14001;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73093;1;2100084099;17/1/23;20;2;125;2500;3500;380;0;;;0;4;4;4;;45;;3;17/1/23
+QUODEM CONSULTORES, S.L.;Auditoria;CATALINA;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73036;5;2100079321;11/1/23;54;2;132;360;360;;;;;;19;1;;mail katy;;;6;11/1/23
+Radiadores Ordóñez, S.A.;Tisax;Marta;IT;Pendiente;+ Buena gestión comercial;Cliente: recomendación;;73041;1;2100084078;11/1/23;213;2;148;8000;8000;0;0;;;;81;1;;Referido DNV;46;;9;11/1/23
+RAMON Y CAJAL ABOGADOS S.L.P.;Mantenimiento;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73210;1;2100081013;27/1/23;28;2;148;950;950;;;;;;19;1;6;;;;6;27/1/23
+RAMON Y CAJAL ABOGADOS S.L.P.;Mantenimiento;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73209;1;2100081013;27/1/23;28;1;148;950;950;;;;;4;19;1;6;BH27;;13/2/23;6;27/1/23
+RECICLAJES GONZALEZ MONTORO, S.L.;Clasificacion_obras;Romina;CLASIFICACION CONTRATISTAS;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73000;1;2100084060;4/1/23;168;2;23;750;750;40;0;;;;1;8;4;;45;;2;4/1/23
+Redsauce Engineering Services S.L.;ISO 27001;Marta;IT;Pendiente;+ Buena gestión comercial;BVQi proporciona contacto;;73135;1;2100084114;20/1/23;26;2;148;4400;4400;0;0;;;0;19;1;4;;46;;7;20/1/23
+REMACHES TUDELA, SL;Calidad;Patricio;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73001;3;2100054767;4/1/23;6;1;140;420;420;240;50;;;4;3;4;6;e.mail;;4/1/23;6;4/1/23
+REQUENA Y MERINA;ROLECE;Romina;CLASIFICACION CONTRATISTAS;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73110;1;2100080363;18/1/23;210;2;23;350;350;350;0;;;;1;8;4;;46;;12;18/1/23
+RESYC GLOBAL, S.L.;Tisax;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73298;1;2100083960;7/2/23;213;1;148;1000;1000;;;;73254;4;3;1;6;;;7/2/23;6;7/2/23
+RETICULAE CEZ ENTERTAINMENT SL;PLAN DE IGUALDAD;Sara;IGUALDAD;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73004;1;2100084061;4/1/23;38;2;142;2100;750;0;0;;;0;13;3;4;;45;;2;4/1/23
+REVESTIMIENTOS TECNICOS NAVARRO, S.L.;ROLECE;Romina;CLASIFICACION CONTRATISTAS;Aceptado;+ Autopresupuesto_no_otros_casos;BVQi proporciona contacto;;73022;1;2100084071;10/1/23;210;1;23;300;300;300;0;;;10;70;8;4;;46;13/1/23;7;10/1/23
+Rocio Pozo Rodriguez;varios;Jose_Miguel;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73125;1;2100084110;19/1/23;43;2;125;1800;1800;0;0;;;0;3;6;4;;45;;2;19/1/23
+ROS ROCA, SA;varios;Sara;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73233;1;2100084138;31/1/23;43;2;142;1500;1500;0;0;;;0;35;6;4;ODS;45;;2;31/1/23
+ROS ROCA, SA;Huella_carbono;Sara;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73232;1;2100084138;31/1/23;48;2;142;2500;2500;0;0;;;0;35;6;4;;45;;2;31/1/23
+ROTHER INDUSTRIES AND TECHNOLOGY SLU;PECAL;Jose_Miguel;ISO'S;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73174;1;2100079702;24/1/23;37;2;125;3850;3850;3850;0;;;0;40;4;4;;45;;2;24/1/23
+SAIMA SEGURIDAD, SA;Huella_carbono;Marta;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;BD prensa;;73185;1;2100031383;25/1/23;48;2;148;1200;1200;;;;;;35;6;5;;;;6;25/1/23
+SCALIAN ESPAÑA;Tisax;Jose_Miguel;IT;Rechazado;+ Cercanía;APPLUS proporciona contacto;;73161;1;2100084123;23/1/23;213;3;125;12500;9500;0;0;;;24;81;1;4;;45;10/2/23;2;23/1/23
+SCORCIA FIESCO SL;Huella_carbono;Sara;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73317;1;2100084167;9/2/23;48;2;142;350;350;0;0;;;0;35;6;4;;45;;2;9/2/23
+SCP DE EXTINTORES SCP;Auditoria;Sara;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73007;1;2100074914;4/1/23;54;1;142;320;320;0;0;;;5;3;4;6;;66;6/2/23;12;4/1/23
+SEA MARCONI ENERGÍA Y MEDIOAMBIENTE, S.L.U.;9001_14001;Patricio;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73268;3;2100076337;3/2/23;20;1;140;200;200;150;50;;;4;4;4;7;e.mail;;3/2/23;6;3/2/23
+SEIFTI SOFTWARE;ISO 22301;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73353;1;2100083402;13/2/23;195;2;125;1500;1500;0;0;;;0;19;1;5;;45;;2;13/2/23
+SEIS SOLAR FOTOVOLTAICA RENOVABLES, S.L;9001_14001;Romina;ISO'S;Rechazado;+ Cercanía;Cliente: recomendación;;73065;1;2100084087;13/1/23;20;3;23;3000;3300;350;0;;;19;3;4;4;;46;15/2/23;9;13/1/23
+SERINFOR SOLUCIONES SL;Auditoria;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73381;1;2100077477;15/2/23;54;2;125;395;395;0;0;;;0;19;1;6;;45;;2;15/2/23
+SERINGE SA;ENS;Romina;IT;Por realizar;+ Cliente habitual;BD prensa;;73377;1;2100041646;15/2/23;212;4;23;0;0;0;0;;;0;80;1;6;;45;;6;15/2/23
+SERVICIO DE MONITORES INTEGRALES, SL;PLAN DE IGUALDAD;JESSICA;IGUALDAD;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73048;5;2100084082;12/1/23;38;1;160;2600;2600;;;;;6;13;3;4;Email;;18/1/23;6;12/1/23
+SERVICIOS DE ADMINISTRACION E INFORMATICA BALEAR, S.L. - SAIBSA;ENS;Sara;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73304;1;2100082684;8/2/23;212;1;142;600;600;;;;73279,1;5;80;1;5;;;8/2/23;12;8/2/23
+SERVICIOS MICROINFORMATICA S.A.;Mantenimiento;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73357;1;2100077853;14/2/23;28;1;148;5100;5100;;;;;4;3;1;7;;;15/2/23;6;14/2/23
+SERVICIOS TRIBUTARIOS INTEGRALES, S.l.;Mantenimiento;Jose_Miguel;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73172;1;2100076598;24/1/23;28;1;125;700;700;;;;;4;3;1;6;;;25/1/23;12;24/1/23
+SIADDE SOLUCIONES, S.A.;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cliente: recomendación;;73264;1;2100075998;3/2/23;212;2;125;4900;3800;;;;;;80;1;4;;;;9;3/2/23
+Siemens Industry Software, S.L.U.;ENS;Marta;IT;Pendiente;+ Buena gestión comercial;Cliente: recomendación;;73275;1;2100084160;3/2/23;212;2;148;8800;8800;;;;;;80;1;4;;;;9;3/2/23
+SINERZA ESTRATEGIA Y ORGANIZACIÓN, S.L.;14001_EMAS;Marta;ISO'S;Pendiente;+ Buena gestión comercial;Camara Comercio proporciona contacto;;73073;1;2100080234;16/1/23;45;2;148;2000;2000;;;;;;4;4;5;ELECTRÓNICA DE ELEVADORES;;;8;16/1/23
+SISTEPLANT S.L.;Proteccion_Datos;Marta;COMPLIANCE;Pendiente;+ Buena gestión comercial;BD prensa;;73165;1;2100028497;24/1/23;39;2;148;900;900;;;;;;6;2;5;;;;6;24/1/23
+SITEP INGENIERIA, SL;Ampliacion_Clasificacion;Romina;CLASIFICACION CONTRATISTAS;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73259;1;2100076169;2/2/23;171;2;23;450;450;450;;;;;1;8;5;;;;12;2/2/23
+SMART HUMAN CAPITAL, SL;9001_27001;ELENA;IT;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73216;1;2100076591;30/1/23;206;1;137;1100;1100;;;;;4;19;1;6;;;7/2/23;12;30/1/23
+Smile and Learn Digital Creations, S.L.;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73205;1;2100084113;27/1/23;212;2;125;4800;4800;0;0;;;;80;1;4;;45;;2;27/1/23
+SO i ART PRAT, S.L.;PLAN DE IGUALDAD;Jose_Miguel;IGUALDAD;Aceptado;+ Autopresupuesto_no_otros_casos;Camara Comercio proporciona contacto;;73094;1;2100084101;17/1/23;38;1;125;1500;0;0;0;;73062;;13;3;4;;46;17/1/23;8;17/1/23
+SOCIEDAD DE PREVENCION AUTORIZADA, S.A.;ISO 27001;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73326;1;2100081504;9/2/23;26;2;148;3500;3500;;;;;;19;1;5;;;;6;9/2/23
+SOCIEDAD DE PREVENCION AUTORIZADA, S.A.;Mantenimiento;Marta;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73332;1;2100081504;10/2/23;28;2;148;1050;1050;;;;;;3;4;6;;;;6;10/2/23
+SOCIEDAD GENERAL ESPAÑOLA DE LIBRERÍA S.A.;Memorias no financieras;Marta;COMPLIANCE;Pendiente;+ Buena gestión comercial;BD prensa;;73310;5;2100032706;8/2/23;214;2;148;1600;1600;;;;;4;83;2;5;;;;6;8/2/23
+SOCIEDAD IBERICA DE CONSTRUCCIONES ELECTRICAS, S.A. (SICE);ENS;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73348;5;2100044284;13/2/23;212;2;148;9300;9300;;;;;;80;1;5;;;;6;13/2/23
+SOLUCIONES QES S.L;COMPLIANCE;Marta;COMPLIANCE;Aceptado;+ Autopresupuesto_no_otros_casos;Camara Comercio proporciona contacto;;73323;1;2100084168;9/2/23;221;1;148;3200;3200;;;;;4;92;2;4;;;10/2/23;8;9/2/23
+SOLUCIONES TÉCNICAS 2000 S.L.;ISO 27001;Marta;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73120;1;2100084108;18/1/23;26;2;148;3900;3900;0;0;;;0;19;1;4;;45;;2;18/1/23
+SOLUCIONS INFORMATIQUES MARESME, SL;Auditoria;Jose_Miguel;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73027;1;2100080355;10/1/23;54;1;125;400;400;;;;;4;3;4;6;;;10/1/23;6;10/1/23
+SOMG CONFORT Y DESCANSO S.L.;9001_14001_18001;Marta;ISO'S;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73333;1;2100084171;10/2/23;23;2;148;5000;5000;0;0;;;0;3;4;4;;45;;2;10/2/23
+SONPARC HOTELS;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73188;5;2100084120;25/1/23;48;2;169;7500;1500;;;;;;;6;4;correo electrónico;;;2;25/1/23
+SONPARC HOTELS;9001_14001;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73154;5;2100084120;23/1/23;20;2;169;12000;2500;0;0;;;1;4;6;4;correo electrónico;;;2;23/1/23
+SONPARC HOTELS;Huella_carbono;Laura Herreria;SOSTENIBILIDAD Y RESPONSABILIDAD SOCIAL CORPORATIVA;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73153;5;2100084120;23/1/23;48;2;169;3000;600;0;0;;;;35;6;4;correo electrónico;;;2;23/1/23
+SOPA SOFTWARE, S.L.;varios;Romina;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73032;1;2100077364;11/1/23;43;2;23;375;1900;1900;1900;;;;3;1;5;;;;6;11/1/23
+SPC ESTRATEGIA 2005, S.L.;PLAN DE IGUALDAD;Marta;IGUALDAD;Pendiente;+ Buena gestión comercial;Camara Comercio proporciona contacto;;73365;1;2100063054;14/2/23;38;2;148;1500;1500;;;;;;13;3;5;Rosenbauer;;;8;14/2/23
+SPC ESTRATEGIA 2005, S.L.;ISO 27001;Marta;IT;Pendiente;+ Buena gestión comercial;Camara Comercio proporciona contacto;;73177;1;2100063054;24/1/23;26;2;148;2300;2300;;;;;;3;1;4;Centro de Formación;;;8;24/1/23
+SUMINISTROS Y EQUIPAMIENTOS SUR SLU;Mantenimiento;Sara;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73095;1;2100075585;17/1/23;28;1;142;260;260;0;0;;;4;3;4;6;;66;19/1/23;12;17/1/23
+SUMINISTROS, IMPORTACIONES Y MANTENIMIENTOS ELECTRONICOS S.A.;ENS;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73092;1;2100064666;17/1/23;212;1;148;3900;3900;;;;;4;80;1;5;Nuevo ENS;;8/2/23;6;17/1/23
+TALIO SOLUTIONS, SL;ISO 27001;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73026;1;2100078527;10/1/23;26;2;125;4000;4000;0;0;;;;80;1;5;;47;;6;10/1/23
+TALLER ALUMINIOS PVC J CRISTINA;Marcado CE PUERTAS;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73231;1;2100084139;31/1/23;32;2;152;1600;1600;;;;;;3;4;4;enmail;;;2;31/1/23
+TASASUR SOCIEDAD DE TASACIONES, S.A.;Auditoria;Romina;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73192;1;2047467764;26/1/23;54;1;23;320;320;320;;;;4;3;4;6;;;14/2/23;12;26/1/23
+TEA CEGOS S.A.;Auditoria;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73361;1;2100082069;14/2/23;54;2;148;650;650;;;;;;19;1;6;;;;6;14/2/23
+TECNICOS ASOCIADOS INFORMATICA, S.A. (TAISA);ENS;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73351;1;2100064756;13/2/23;212;2;148;3400;3400;3400;;;;;80;1;5;;;;6;13/2/23
+TECNITEX;Calidad;ELENA;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73214;5;2100072988;30/1/23;6;2;137;850;850;;;;;;3;4;6;;;;12;30/1/23
+TECNOROUTE;ENS;Romina;IT;Pendiente;+ Buena gestión comercial;AXESOR;;73189;1;2100084118;25/1/23;212;2;23;3800;5200;5600;6700;;;;80;1;4;;;;5;25/1/23
+TEMPUR SEALY IBERICA, S.A.;Formación;Pilar Caro;IGUALDAD;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73083;16;2100084095;16/1/23;53;2;168;0;0;0;0;;;;13;3;5;email;83;;12;16/1/23
+TERA INSTALACIONES ELECTRICAS Y MECANICAS, S.L.;Mantenimiento_anual;Jose_Miguel;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;73055;1;2100075782;12/1/23;192;1;125;960;0;0;0;;;4;3;4;7;;64;17/1/23;12;12/1/23
+TERA INSTALACIONES ELECTRICAS Y MECANICAS, S.L.;Clasificacion_obras;Romina;CLASIFICACION CONTRATISTAS;Pendiente;+ Buena gestión comercial;BD prensa;;73290;1;2100075782;7/2/23;168;2;23;975;1500;2300;0;;;;1;8;5;;46;;6;7/2/23
+TERRAZOS RUIZ S.A;Calidad;Patricio;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73331;3;2100048923;10/2/23;6;2;140;780;780;250;50;;;;3;4;6;e.mail;;;6;10/2/23
+TICSMART, SL;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73318;1;2100078207;9/2/23;212;2;125;2800;2800;0;0;;;0;19;1;5;;45;;12;9/2/23
+TOTAL LOGISTIC SERVICES, SL;ISO 27001;Sara;IT;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73014;1;2100084064;9/1/23;26;2;142;3600;3600;0;0;;;0;19;1;4;;45;;3;9/1/23
+TPF GETINSA EUROESTUDIOS, S.L.;varios;Romina;IT;Por realizar;+ Cliente habitual;BD prensa;;73253;1;2100083791;2/2/23;43;4;23;0;0;0;;;;;19;1;5;;;;6;2/2/23
+TRANSPERFECT TRANSLATIONS SL;PLAN DE IGUALDAD;Sara;IGUALDAD;Rechazado;+ Cercanía;APPLUS proporciona contacto;;73080;1;2100084089;16/1/23;38;3;142;5600;2200;1200;0;;;25;13;3;4;;45;19/1/23;2;16/1/23
+TRANSPORTES RICHARD, S.L.;Marcado CE ARIDOS;Patricio;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73199;3;2047468009;26/1/23;29;1;140;640;640;250;50;;;4;12;4;6;e.mail;;27/1/23;6;26/1/23
+TRAYPAS, SL;Auditoria;Sara;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;Cristina: conocidos;;72996;1;2100080425;3/1/23;54;1;142;480;480;0;0;;;4;3;4;6;;66;20/1/23;12;3/1/23
+TRONOVA SL;Mantenimiento;Ana_aguilera;ISO'S;Pendiente;+ Buena gestión comercial;BD prensa;;73117;1;2100080934;18/1/23;28;2;167;1100;1100;;;;;;3;4;6;;;;6;18/1/23
+tst espectaculos;Integrado_VARIOS;Sara;IT;Pendiente;+ Buena gestión comercial;Arsenio: cliente;;73102;1;2100084103;17/1/23;176;2;142;1500;1800;2500;4900;;;0;19;1;4;;45;;3;17/1/23
+TUS MEDIA SLU;PLAN DE IGUALDAD;Sara;IGUALDAD;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73201;1;2100084134;26/1/23;38;2;142;2400;90;0;0;;;0;13;3;4;;45;;2;26/1/23
+UNGRIA PATENTES Y MARCAS, S.A.;Mantenimiento;CATALINA;IT;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73247;1;2100073070;1/2/23;28;2;132;995;995;;;;;;19;1;6;mail katy;;;12;1/2/23
+Unión General de Trabajadoras y Trabajadores UGT;PLAN DE IGUALDAD;Marta;IGUALDAD;Pendiente;+ Buena gestión comercial;Camara Comercio proporciona contacto;;73204;1;2100084136;26/1/23;38;2;148;85000;85000;;;;;;13;3;4;;;;8;26/1/23
+UR HOTELS;Huella_carbono;Rafi;ISO'S;Pendiente;+ Buena gestión comercial;AXESOR;;73335;1;2100084172;10/2/23;48;2;152;3200;3200;;;;;;35;4;4;enmail;;;5;10/2/23
+URBA CONS, S.L.;Clasificacion_obras_servicios;Romina;CLASIFICACION CONTRATISTAS;Pendiente;+ Buena gestión comercial;;;73068;1;2100084088;13/1/23;170;2;23;850;350;950;1200;;;0;1;8;4;;46;;0;13/1/23
+URBIM DT SL;ENS;Sara;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73248;1;2100084150;1/2/23;212;2;142;4500;6400;0;0;;;0;80;1;4;27+ensmedio;45;;2;1/2/23
+VERIDAS Digital Authentication Solutions, S.L;Auditoria;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73384;5;2100077117;15/2/23;54;1;148;270;270;;;;72488_1;4;19;1;6;;;15/2/23;6;15/2/23
+VERIDAS Digital Authentication Solutions, S.L;ENS;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73121;5;2100077117;19/1/23;212;1;148;2800;2800;;;;;4;80;1;5;;;24/1/23;6;19/1/23
+VILT IBERICA S.L.U.;ENS;Marta;IT;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73122;1;2100077953;19/1/23;212;1;148;2900;2900;;;;;4;80;1;5;;;7/2/23;6;19/1/23
+VIRENSIS S.A.;LOPD_A_y_M;Marta;COMPLIANCE;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73028;1;2047500546;11/1/23;186;1;148;2100;2100;;;;;4;6;2;5;;;24/1/23;6;11/1/23
+VIRENSIS S.A.;Mantenimiento;Marta;ISO'S;Aceptado;+ Autopresupuesto_no_otros_casos;BD prensa;;73208;1;2047500546;27/1/23;28;1;148;2800;2800;;;;;4;4;4;6;;;27/1/23;6;27/1/23
+Vitorica Software y Systemas S.L.;Auditoria;Sara;ISO'S;Pendiente;+ Buena gestión comercial;Cristina: conocidos;;73349;1;2100080142;13/2/23;54;2;142;450;450;0;0;;;0;19;4;6;;66;;12;13/2/23
+WAAYO SERVICIOS INFORMATICOS, S.L.;ENS;Jose_Miguel;IT;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73261;1;2100084153;2/2/23;212;2;125;3800;3800;0;0;;;;80;1;4;;45;;2;2/2/23
+WALMERIC SOLUCIONES S.L.;Ciberseguridad;Marta;IT;Pendiente;+ Buena gestión comercial;BD prensa;;73164;1;2100042820;24/1/23;220;2;148;6000;6000;;;;;;91;1;5;;;;6;24/1/23
+WEEWOO SL;PLAN DE IGUALDAD;Sara;IGUALDAD;Rechazado;+ Cercanía;APPLUS proporciona contacto;;73070;1;2100084086;13/1/23;38;3;142;1900;650;0;0;;;17;13;3;4;;45;6/2/23;2;13/1/23
+WISE SECURITY GLOBAL, S.L.;ENS;Marta;IT;Pendiente;+ Buena gestión comercial;Camara Comercio proporciona contacto;;73256;1;2100077824;2/2/23;212;2;148;13800;13800;;;;;;80;1;5;;;;8;2/2/23
+WISE SECURITY GLOBAL, S.L.;Formación;Pilar Caro;IGUALDAD;Pendiente;+ Buena gestión comercial;BD prensa;;73218;16;2100077824;30/1/23;53;2;168;0;0;0;0;;;0;42;3;0;email;83;;6;30/1/23
+XALOC STUDIOS SL;PLAN DE IGUALDAD;Sara;IGUALDAD;Pendiente;+ Buena gestión comercial;APPLUS proporciona contacto;;73016;1;2100084068;9/1/23;38;2;142;2000;2000;0;0;;;0;13;3;4;;45;;2;9/1/23
+ZAIDA VENTURA CISA;Proteccion_datos_adecuacion_reglamento;Jose_Miguel;COMPLIANCE;Pendiente;+ Buena gestión comercial;Camara Comercio proporciona contacto;;73278;1;2100084163;6/2/23;209;2;125;250;250;0;0;;;0;92;2;4;;46;;8;6/2/23
+ZELENZA SOLUCIONES INTEGRALES, S.A.;COMPLIANCE;Marta;COMPLIANCE;Pendiente;+ Buena gestión comercial;ECA proporciona contacto;;73009;1;2100064561;9/1/23;221;2;148;3500;3500;;;;;;92;2;;;;;13;8/1/23
